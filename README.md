@@ -87,36 +87,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-> 🔧 Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
-
----
-
 ## 🤝 Connect With Me
 
-- LinkedIn: **[Your LinkedIn URL](https://www.linkedin.com/)**
-- GitHub: **[Your GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)**
+- LinkedIn: **[https://www.linkedin.com/in/datnguyendesign/]([https://www.linkedin.com/](https://www.linkedin.com/in/datnguyendesign/))**
+- GitHub: **[https://github.com/RinkVN](https://github.com/RinkVN)**
 
 ---
-
-## 📌 Quick Notes (for profile customization)
-
-- Replace **Đạt (Dat)** with the name you want to show publicly
-- Update project names/links when your repos are ready
-- Pin 2–3 repos that match your target direction (**Cloud Security / DevSecOps**)
-- Keep this README updated monthly with your learning progress
-
-<!--
-Profile README repo format:
-Create a repository with the exact same name as your GitHub username.
-Example: if username is "datnguyen", create repo "datnguyen" and put this file as README.md
--->
