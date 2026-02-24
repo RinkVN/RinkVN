@@ -70,7 +70,7 @@
 
 ## 🤝 Connect With Me
 
-- LinkedIn: **[https://www.linkedin.com/in/datnguyendesign/](https://www.linkedin.com/](https://www.linkedin.com/in/datnguyendesign/)**
+- LinkedIn: **[https://www.linkedin.com/in/datnguyendesign/](https://www.linkedin.com/in/datnguyendesign/)**
 - GitHub: **[https://github.com/RinkVN](https://github.com/RinkVN)**
 
 ---
