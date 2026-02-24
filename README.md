@@ -68,28 +68,9 @@
 
 ---
 
-## 📖 What I'm Learning (2026)
-
-- AWS IAM policy design (least privilege)
-- VPC networking for secure cloud deployments
-- CloudTrail / GuardDuty / Security Hub basics
-- DevSecOps in GitHub Actions (SAST, secrets scan, image scan)
-- Web security fundamentals through PortSwigger labs
-
----
-
-## 🧠 Learning Philosophy
-
-- Build first, then document what I learned
-- Focus on **practical security controls**, not just theory
-- Combine **developer experience** with a **security engineering mindset**
-- Learn in public through notes, labs, and project write-ups
-
----
-
 ## 🤝 Connect With Me
 
-- LinkedIn: **[https://www.linkedin.com/in/datnguyendesign/]([https://www.linkedin.com/](https://www.linkedin.com/in/datnguyendesign/))**
+- LinkedIn: **[https://www.linkedin.com/in/datnguyendesign/](https://www.linkedin.com/](https://www.linkedin.com/in/datnguyendesign/)**
 - GitHub: **[https://github.com/RinkVN](https://github.com/RinkVN)**
 
 ---
