@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Đạt (Dat)
+# 👋 Hi, I'm Đạt (Danny)
 
 💻 **Fullstack Developer** (frontend-leaning) working with **React, Node.js, JavaScript**  
 🔐 Currently transitioning into **AWS Cloud Security / DevSecOps**  
